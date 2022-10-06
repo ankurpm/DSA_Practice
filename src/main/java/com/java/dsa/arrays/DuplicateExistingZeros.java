@@ -11,6 +11,14 @@ public class DuplicateExistingZeros {
         System.out.println(Arrays.toString(arr));
     }
 
+    /**
+     * This approach uses another array of same size as original array
+     * Iterate the original array util new array size is reached
+     * If original array element not equal to zero, copy to new array
+     * If original array element is zero, copy it twice
+     * EDGE CASE: don't copy again if the size of new array is already equal to length we want.
+     * @param arr
+     */
     private static void duplicateZeros(int[] arr) {
         int[] newArr = new int[arr.length];
         int j=0;
