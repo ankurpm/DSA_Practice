@@ -1,4 +1,4 @@
-package com.java.dsa.arrays;
+package com.dsa.arrays;
 
 import javax.swing.text.html.Option;
 import java.util.ArrayList;

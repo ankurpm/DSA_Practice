@@ -1,4 +1,4 @@
-package com.java.dsa.arrays;
+package com.dsa.arrays;
 
 public class EvenNoOfDigits {
     public static void main(String[] args) {
