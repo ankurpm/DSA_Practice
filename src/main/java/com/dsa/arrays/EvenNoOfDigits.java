@@ -1,5 +1,8 @@
 package com.dsa.arrays;
 
+/**
+ * Given an array nums of integers, return how many of them contain an even number of digits.
+ */
 public class EvenNoOfDigits {
     public static void main(String[] args) {
         int[] nums = {12,345,25,6,7896};

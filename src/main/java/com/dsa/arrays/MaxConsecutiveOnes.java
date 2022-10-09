@@ -7,6 +7,9 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Stream;
 
+/**
+ * Given a binary array nums, return the maximum number of consecutive 1's in the array.
+ */
 public class MaxConsecutiveOnes {
 
     public static void main(String[] args) {

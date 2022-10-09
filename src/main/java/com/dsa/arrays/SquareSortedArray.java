@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.stream.Collectors;
 
+/**
+ * Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+ */
 public class SquareSortedArray {
     public static void main(String[] args) {
 
