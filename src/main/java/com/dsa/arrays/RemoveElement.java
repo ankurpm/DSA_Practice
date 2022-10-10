@@ -24,7 +24,7 @@ public class RemoveElement {
         System.out.println("Before array = "+Arrays.toString(nums));
         int i = removeElement(nums, val);
         System.out.println("value of return is "+i);
-        System.out.println("Before array = "+Arrays.toString(nums));
+        System.out.println("After array = "+Arrays.toString(nums));
     }
 
     /**
